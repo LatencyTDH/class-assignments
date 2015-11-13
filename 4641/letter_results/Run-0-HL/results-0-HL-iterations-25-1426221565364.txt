@@ -1,0 +1,107 @@
+
+Error results for RHC
+---------------------------
+7576.914
+6515.703
+1655.086
+1038.840
+1593.896
+613.424
+1747.160
+482.498
+1218.172
+413.421
+478.724
+378.831
+376.509
+376.529
+376.505
+376.512
+376.501
+376.500
+376.500
+376.549
+381.387
+376.500
+376.500
+376.504
+376.500
+
+Error results for SA
+---------------------------
+412.682
+572.390
+543.053
+395.065
+809.157
+388.604
+384.197
+413.520
+408.833
+411.073
+921.293
+791.746
+2250.079
+1100.756
+425.443
+2170.387
+3878.466
+3724.645
+2222.125
+3108.144
+4150.100
+4919.347
+4319.156
+4464.809
+2905.574
+
+Error results for GA
+---------------------------
+377.189
+439.057
+376.419
+376.487
+377.638
+376.505
+376.500
+376.500
+376.500
+376.508
+376.480
+376.489
+376.487
+376.500
+376.538
+376.602
+376.500
+376.500
+376.500
+376.223
+376.500
+376.500
+376.500
+376.500
+376.500
+
+Results for RHC: 
+Correctly classified 19247.0 instances.
+Incorrectly classified 753.0 instances.
+Percent correctly classified: 96.235%
+Training time: 1.895 seconds
+Testing time: 0.101 seconds
+
+Results for SA: 
+Correctly classified 12294.0 instances.
+Incorrectly classified 7706.0 instances.
+Percent correctly classified: 61.470%
+Training time: 1.304 seconds
+Testing time: 0.068 seconds
+
+Results for GA: 
+Correctly classified 19247.0 instances.
+Incorrectly classified 753.0 instances.
+Percent correctly classified: 96.235%
+Training time: 13.311 seconds
+Testing time: 0.128 seconds
+
+inputLayer=16, hiddenLayer=16, outputLayer=1, trainingIterations=25

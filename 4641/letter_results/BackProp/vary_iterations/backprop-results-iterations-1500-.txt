@@ -1,0 +1,434 @@
+=== Run information ===
+
+Scheme:weka.classifiers.functions.MultilayerPerceptron -L 0.3 -M 0.2 -N 1500 -V 0 -S 0 -E 20 -H 16 -R
+Relation:     letter
+Instances:    15721
+Attributes:   17
+              x-box
+              y-box
+              width
+              high
+              onpix
+              x-bar
+              y-bar
+              x2bar
+              y2bar
+              xybar
+              x2ybr
+              xy2br
+              x-ege
+              xegvy
+              y-ege
+              yegvx
+              class
+Test mode:evaluate on training data
+
+=== Classifier model (full training set) ===
+
+Sigmoid Node 0
+    Inputs    Weights
+    Threshold    -9.590465568420845
+    Node 2    0.8272577518229398
+    Node 3    21.113625069513585
+    Node 4    17.124742102711096
+    Node 5    8.54510649496876
+    Node 6    17.912972748209366
+    Node 7    -12.057758729602474
+    Node 8    17.423734314902443
+    Node 9    -6.574900526315214
+    Node 10    -13.894939214575045
+    Node 11    0.17749357597024407
+    Node 12    -9.206417433114936
+    Node 13    13.0061690150627
+    Node 14    21.049855356768997
+    Node 15    13.339483673769976
+    Node 16    -11.127043051568881
+    Node 17    20.04206631850119
+Sigmoid Node 1
+    Inputs    Weights
+    Threshold    9.589806778471967
+    Node 2    -0.795091544008413
+    Node 3    -21.113092999700072
+    Node 4    -17.12546520034815
+    Node 5    -8.545495335864318
+    Node 6    -17.913153049871028
+    Node 7    12.06719259707866
+    Node 8    -17.42703489070063
+    Node 9    6.556926452444075
+    Node 10    13.895232429531887
+    Node 11    -0.1659949959028306
+    Node 12    9.205089683431645
+    Node 13    -13.008403990273582
+    Node 14    -21.05017484769777
+    Node 15    -13.339593641296187
+    Node 16    11.125452839067513
+    Node 17    -20.043753564174935
+Sigmoid Node 2
+    Inputs    Weights
+    Threshold    -1.8264025458076112
+    Attrib x-box    0.3214215159205113
+    Attrib y-box    0.014372626421902544
+    Attrib width    0.6269328831568769
+    Attrib high    0.6836284396741658
+    Attrib onpix    0.5698533469884802
+    Attrib x-bar    -0.05541165583165196
+    Attrib y-bar    -0.24973305870927626
+    Attrib x2bar    -0.4474848711872007
+    Attrib y2bar    -0.7953211933329477
+    Attrib xybar    -0.2423060087289364
+    Attrib x2ybr    0.8662502763908925
+    Attrib xy2br    0.06697341468208022
+    Attrib x-ege    1.321807943181848
+    Attrib xegvy    -0.3048476894703501
+    Attrib y-ege    -0.912719868007691
+    Attrib yegvx    0.2812808003833191
+Sigmoid Node 3
+    Inputs    Weights
+    Threshold    -10.46771797055876
+    Attrib x-box    -0.04476903995352419
+    Attrib y-box    6.191292267140468
+    Attrib width    6.8003450789935185
+    Attrib high    -5.337632837465379
+    Attrib onpix    -4.4310695348198115
+    Attrib x-bar    5.961789190344307
+    Attrib y-bar    -4.300411149326377
+    Attrib x2bar    -5.011145718369349
+    Attrib y2bar    -3.1274576093188298
+    Attrib xybar    13.94639305890888
+    Attrib x2ybr    5.512979926211691
+    Attrib xy2br    -8.752913878418974
+    Attrib x-ege    -3.6344601895830824
+    Attrib xegvy    -6.983342077486657
+    Attrib y-ege    1.150055082911358
+    Attrib yegvx    -0.17625294240422784
+Sigmoid Node 4
+    Inputs    Weights
+    Threshold    -4.922258304041514
+    Attrib x-box    -10.532500154128156
+    Attrib y-box    -1.925363968901173
+    Attrib width    -2.201548944740719
+    Attrib high    8.971043734790708
+    Attrib onpix    7.978797928679303
+    Attrib x-bar    -1.4530805199141725
+    Attrib y-bar    -3.6017941375887133
+    Attrib x2bar    -18.49064816707938
+    Attrib y2bar    3.3704875719766587
+    Attrib xybar    -0.3581307821635451
+    Attrib x2ybr    1.614445212232723
+    Attrib xy2br    11.197553985436558
+    Attrib x-ege    -13.674405383016696
+    Attrib xegvy    11.585816505763379
+    Attrib y-ege    15.26043357060487
+    Attrib yegvx    3.4343974908607136
+Sigmoid Node 5
+    Inputs    Weights
+    Threshold    -3.5032936977377154
+    Attrib x-box    -6.6699727091425265
+    Attrib y-box    3.3322176043163627
+    Attrib width    -6.185755343763273
+    Attrib high    1.0858218674908944
+    Attrib onpix    5.85410225449629
+    Attrib x-bar    -1.7173068799483948
+    Attrib y-bar    -3.2701613094206383
+    Attrib x2bar    6.387316110270614
+    Attrib y2bar    2.906900963772245
+    Attrib xybar    -0.6579284862538899
+    Attrib x2ybr    -6.504705539777148
+    Attrib xy2br    1.6533067050116557
+    Attrib x-ege    2.9139582485287376
+    Attrib xegvy    -3.3861420721251156
+    Attrib y-ege    0.18222887479435812
+    Attrib yegvx    6.058666408391043
+Sigmoid Node 6
+    Inputs    Weights
+    Threshold    -12.444077085656666
+    Attrib x-box    8.176323222942784
+    Attrib y-box    -1.6814538810007071
+    Attrib width    -5.180898057712967
+    Attrib high    7.234201752517576
+    Attrib onpix    -5.140261540512859
+    Attrib x-bar    2.8136419180099246
+    Attrib y-bar    0.05798406844683501
+    Attrib x2bar    -1.198238838404624
+    Attrib y2bar    -7.911823478858873
+    Attrib xybar    -12.109229136270066
+    Attrib x2ybr    2.1645073827689187
+    Attrib xy2br    2.2204789713580984
+    Attrib x-ege    -1.033069150261561
+    Attrib xegvy    6.2875675364138575
+    Attrib y-ege    -8.720191071067664
+    Attrib yegvx    8.410656783545651
+Sigmoid Node 7
+    Inputs    Weights
+    Threshold    -10.962015502050049
+    Attrib x-box    -4.6747501425614715
+    Attrib y-box    -0.47531847742460726
+    Attrib width    -2.562332836046696
+    Attrib high    -7.4711310721970285
+    Attrib onpix    11.545701870529939
+    Attrib x-bar    2.677201616391275
+    Attrib y-bar    1.391334092310645
+    Attrib x2bar    -3.099781901481477
+    Attrib y2bar    -4.886257045589449
+    Attrib xybar    -1.5386393324860372
+    Attrib x2ybr    -2.927753183965608
+    Attrib xy2br    -2.634502155571034
+    Attrib x-ege    7.78741858986509
+    Attrib xegvy    4.02242761885717
+    Attrib y-ege    -5.916429920963543
+    Attrib yegvx    0.9709897695882468
+Sigmoid Node 8
+    Inputs    Weights
+    Threshold    -1.7625471676336408
+    Attrib x-box    -14.488425034713837
+    Attrib y-box    -1.0167046965268116
+    Attrib width    5.7281567474427755
+    Attrib high    -2.668818144913111
+    Attrib onpix    10.505033295356993
+    Attrib x-bar    -2.3908254430670244
+    Attrib y-bar    5.717791182338518
+    Attrib x2bar    -8.846992434379544
+    Attrib y2bar    8.705169973850296
+    Attrib xybar    -1.3413522728053069
+    Attrib x2ybr    -2.404356214328072
+    Attrib xy2br    -5.044220721200556
+    Attrib x-ege    0.04906327691921304
+    Attrib xegvy    -2.8864745568491244
+    Attrib y-ege    -1.839202839494923
+    Attrib yegvx    -19.462736293904744
+Sigmoid Node 9
+    Inputs    Weights
+    Threshold    -7.644592447451999
+    Attrib x-box    -1.922615366580965
+    Attrib y-box    1.1116114202379503
+    Attrib width    -2.744529737953127
+    Attrib high    -4.678529823294851
+    Attrib onpix    6.007979893285405
+    Attrib x-bar    2.869282513198623
+    Attrib y-bar    -1.6193680878168586
+    Attrib x2bar    -0.4853412457333864
+    Attrib y2bar    -3.997256417534939
+    Attrib xybar    -2.7622003824119186
+    Attrib x2ybr    -3.86069767089034
+    Attrib xy2br    -1.7369917735758362
+    Attrib x-ege    6.706945910503954
+    Attrib xegvy    2.2157734380165146
+    Attrib y-ege    -1.6476222675795658
+    Attrib yegvx    2.9741166376172603
+Sigmoid Node 10
+    Inputs    Weights
+    Threshold    -8.30980093448584
+    Attrib x-box    -1.2781478022369313
+    Attrib y-box    9.223020095016443
+    Attrib width    -3.1209867878068964
+    Attrib high    -9.212196236623004
+    Attrib onpix    5.763634368003472
+    Attrib x-bar    -5.208681266739699
+    Attrib y-bar    -6.805842437945805
+    Attrib x2bar    -1.198911586869885
+    Attrib y2bar    -5.283615943003304
+    Attrib xybar    -6.480410235628827
+    Attrib x2ybr    -10.989154858712446
+    Attrib xy2br    1.4493098743693849
+    Attrib x-ege    -0.5405017521613724
+    Attrib xegvy    2.379332745514485
+    Attrib y-ege    0.22777398592065828
+    Attrib yegvx    -4.163007839348331
+Sigmoid Node 11
+    Inputs    Weights
+    Threshold    -1.8113474846428848
+    Attrib x-box    0.476955575021719
+    Attrib y-box    0.4161473739680751
+    Attrib width    0.09462572721272877
+    Attrib high    0.45334791579100675
+    Attrib onpix    0.6292540392540702
+    Attrib x-bar    -0.7331890261330709
+    Attrib y-bar    0.5443825110235421
+    Attrib x2bar    -0.8702844569351237
+    Attrib y2bar    -0.2703564732482354
+    Attrib xybar    -0.6864089140172884
+    Attrib x2ybr    0.8739590467699436
+    Attrib xy2br    -0.14430374251256414
+    Attrib x-ege    0.7331448249116184
+    Attrib xegvy    -0.058325676115450614
+    Attrib y-ege    0.42074641082489345
+    Attrib yegvx    0.27643047527500936
+Sigmoid Node 12
+    Inputs    Weights
+    Threshold    -2.182162122549734
+    Attrib x-box    2.138792388149629
+    Attrib y-box    8.461561016999942
+    Attrib width    -6.276428463537784
+    Attrib high    0.3241201112282362
+    Attrib onpix    -0.9514244400476983
+    Attrib x-bar    7.569685660262968
+    Attrib y-bar    -0.6696048792298568
+    Attrib x2bar    -0.35062177219469853
+    Attrib y2bar    -3.2458575601591413
+    Attrib xybar    -2.5800264455384374
+    Attrib x2ybr    1.9725332137990845
+    Attrib xy2br    2.1392813419256083
+    Attrib x-ege    4.203098689420788
+    Attrib xegvy    -1.0102809589032105
+    Attrib y-ege    -0.30620692059526
+    Attrib yegvx    1.502775845661495
+Sigmoid Node 13
+    Inputs    Weights
+    Threshold    3.735659353961683
+    Attrib x-box    -1.6510251484708307
+    Attrib y-box    2.693126351573008
+    Attrib width    6.250087623661608
+    Attrib high    -3.770944653174586
+    Attrib onpix    -2.4874443877236585
+    Attrib x-bar    -4.955491152935288
+    Attrib y-bar    4.253866469458378
+    Attrib x2bar    -12.886185204529566
+    Attrib y2bar    -0.11375298279194551
+    Attrib xybar    -0.8630099523915112
+    Attrib x2ybr    -0.5565855819605718
+    Attrib xy2br    4.921342085637965
+    Attrib x-ege    9.368445533166676
+    Attrib xegvy    -1.0428532825534973
+    Attrib y-ege    3.6341941489026524
+    Attrib yegvx    12.652184664848525
+Sigmoid Node 14
+    Inputs    Weights
+    Threshold    -1.1483955543207551
+    Attrib x-box    1.0983601595554728
+    Attrib y-box    -0.9676577240811902
+    Attrib width    0.5821771990276879
+    Attrib high    0.02641054121162552
+    Attrib onpix    8.046059801564027
+    Attrib x-bar    1.130160697119876
+    Attrib y-bar    -17.052441583880178
+    Attrib x2bar    -4.507963350727792
+    Attrib y2bar    3.462258860413403
+    Attrib xybar    -0.16419172225556966
+    Attrib x2ybr    14.116591830797582
+    Attrib xy2br    -0.9973923243101993
+    Attrib x-ege    0.7042044128256106
+    Attrib xegvy    11.167440759779542
+    Attrib y-ege    -8.715940177170504
+    Attrib yegvx    -6.1819744668223136
+Sigmoid Node 15
+    Inputs    Weights
+    Threshold    2.5388062048536337
+    Attrib x-box    4.533838420604316
+    Attrib y-box    1.208483786560213
+    Attrib width    -9.349884825484601
+    Attrib high    2.6947013966593576
+    Attrib onpix    2.9227976971310694
+    Attrib x-bar    17.83728629236421
+    Attrib y-bar    -10.21412730289175
+    Attrib x2bar    -7.639135771959775
+    Attrib y2bar    -4.984931359901367
+    Attrib xybar    -23.36921563053473
+    Attrib x2ybr    -1.6219959907873855
+    Attrib xy2br    2.5725229490409487
+    Attrib x-ege    8.611607009993943
+    Attrib xegvy    -21.01826810557464
+    Attrib y-ege    1.1151977201155896
+    Attrib yegvx    -1.6423567955429226
+Sigmoid Node 16
+    Inputs    Weights
+    Threshold    -1.6723674956943064
+    Attrib x-box    -0.1683818368097093
+    Attrib y-box    1.6946065651540585
+    Attrib width    -2.029559605472512
+    Attrib high    1.639078373051526
+    Attrib onpix    1.4461365254924876
+    Attrib x-bar    6.705298057456705
+    Attrib y-bar    1.2756028627339766
+    Attrib x2bar    4.3019915931647805
+    Attrib y2bar    -5.406359805432189
+    Attrib xybar    0.5252516255190742
+    Attrib x2ybr    14.500098911045772
+    Attrib xy2br    1.014663207350021
+    Attrib x-ege    4.415134977431688
+    Attrib xegvy    -0.9845188519559854
+    Attrib y-ege    -7.730609743019957
+    Attrib yegvx    1.935217039378154
+Sigmoid Node 17
+    Inputs    Weights
+    Threshold    -6.571456450202321
+    Attrib x-box    -0.5607623817422398
+    Attrib y-box    0.2846305509853167
+    Attrib width    -0.35105913396391736
+    Attrib high    -7.167052661251921
+    Attrib onpix    8.555865377549015
+    Attrib x-bar    -24.689376313050612
+    Attrib y-bar    7.112491637847528
+    Attrib x2bar    10.73951374066166
+    Attrib y2bar    0.5213685087681356
+    Attrib xybar    0.19323278377285108
+    Attrib x2ybr    -6.114299054135123
+    Attrib xy2br    -9.983166289381016
+    Attrib x-ege    8.225198290374879
+    Attrib xegvy    -10.791120946129688
+    Attrib y-ege    -12.335179400086014
+    Attrib yegvx    4.286086000259358
+Class 0
+    Input
+    Node 0
+Class 1
+    Input
+    Node 1
+
+
+Time taken to build model: 172.09 seconds
+
+=== Evaluation on training set ===
+=== Summary ===
+
+Correctly Classified Instances       15686               99.7774 %
+Incorrectly Classified Instances        35                0.2226 %
+Kappa statistic                          0.9686
+Mean absolute error                      0.0027
+Root mean squared error                  0.0474
+Relative absolute error                  3.6898 %
+Root relative squared error             24.7965 %
+Total Number of Instances            15721     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 1         0.059      0.998     1         0.999      0.973    0
+                 0.941     0          1         0.941     0.97       0.974    1
+Weighted Avg.    0.998     0.056      0.998     0.998     0.998      0.973
+
+=== Confusion Matrix ===
+
+     a     b   <-- classified as
+ 15125     0 |     a = 0
+    35   561 |     b = 1
+
+
+=== Re-evaluation on test set ===
+
+User supplied test set
+Relation:     letter
+Instances:     unknown (yet). Reading incrementally
+Attributes:   17
+
+=== Summary ===
+
+Correctly Classified Instances        4247               99.2522 %
+Incorrectly Classified Instances        32                0.7478 %
+Kappa statistic                          0.8915
+Mean absolute error                      0.0079
+Root mean squared error                  0.0805
+Total Number of Instances             4279     
+
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 0.997     0.127      0.995     0.997     0.996      0.974    0
+                 0.873     0.003      0.919     0.873     0.895      0.974    1
+Weighted Avg.    0.993     0.123      0.992     0.993     0.992      0.974
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+ 4110   12 |    a = 0
+   20  137 |    b = 1
+

@@ -1,0 +1,1229 @@
+0
+RHC: 75.0
+Runtime: 157
+SA: 94.0
+Runtime: 132
+GA: 89.0
+Runtime: 235
+MIMIC:  113.0
+Runtime: 4707
+
+
+
+1
+RHC: 94.0
+Runtime: 64
+SA: 109.0
+Runtime: 85
+GA: 89.0
+Runtime: 122
+MIMIC: 97.0
+Runtime: 3541
+
+
+
+2
+RHC: 81.0
+Runtime: 84
+SA: 93.0
+Runtime: 111
+GA: 92.0
+Runtime: 122
+MIMIC: 104.0
+Runtime: 3885
+
+
+
+3
+RHC: 85.0
+Runtime: 77
+SA:  113.0
+Runtime: 105
+GA: 91.0
+Runtime: 127
+MIMIC: 102.0
+Runtime: 3600
+
+
+
+4
+RHC: 82.0
+Runtime: 69
+SA: 95.0
+Runtime: 111
+GA: 87.0
+Runtime: 118
+MIMIC: 102.0
+Runtime: 3728
+
+
+
+5
+RHC: 76.0
+Runtime: 64
+SA: 110.0
+Runtime: 103
+GA: 80.0
+Runtime: 122
+MIMIC: 108.0
+Runtime: 3361
+
+
+
+6
+RHC: 78.0
+Runtime: 81
+SA: 108.0
+Runtime: 120
+GA: 85.0
+Runtime: 141
+MIMIC: 104.0
+Runtime: 3991
+
+
+
+7
+RHC: 74.0
+Runtime: 66
+SA: 98.0
+Runtime: 98
+GA: 83.0
+Runtime: 110
+MIMIC: 91.0
+Runtime: 3846
+
+
+
+8
+RHC: 81.0
+Runtime: 64
+SA:  113.0
+Runtime: 95
+GA: 88.0
+Runtime: 135
+MIMIC: 110.0
+Runtime: 4043
+
+
+
+9
+RHC: 84.0
+Runtime: 64
+SA: 88.0
+Runtime: 99
+GA: 85.0
+Runtime: 107
+MIMIC: 102.0
+Runtime: 3928
+
+
+
+10
+RHC: 79.0
+Runtime: 64
+SA: 106.0
+Runtime: 94
+GA: 88.0
+Runtime: 127
+MIMIC: 104.0
+Runtime: 3811
+
+
+
+11
+RHC: 77.0
+Runtime: 79
+SA: 78.0
+Runtime: 92
+GA: 87.0
+Runtime: 144
+MIMIC: 92.0
+Runtime: 3788
+
+
+
+12
+RHC: 75.0
+Runtime: 73
+SA:  113.0
+Runtime: 116
+GA: 84.0
+Runtime: 127
+MIMIC: 100.0
+Runtime: 3798
+
+
+
+13
+RHC: 81.0
+Runtime: 86
+SA: 92.0
+Runtime: 117
+GA: 90.0
+Runtime: 144
+MIMIC: 101.0
+Runtime: 4282
+
+
+
+14
+RHC: 93.0
+Runtime: 63
+SA: 107.0
+Runtime: 109
+GA: 91.0
+Runtime: 139
+MIMIC: 93.0
+Runtime: 3874
+
+
+
+15
+RHC: 82.0
+Runtime: 84
+SA: 107.0
+Runtime: 103
+GA: 93.0
+Runtime: 144
+MIMIC: 108.0
+Runtime: 3726
+
+
+
+16
+RHC: 88.0
+Runtime: 61
+SA: 110.0
+Runtime: 105
+GA: 92.0
+Runtime: 137
+MIMIC: 111.0
+Runtime: 3593
+
+
+
+17
+RHC: 91.0
+Runtime: 68
+SA: 104.0
+Runtime: 99
+GA: 93.0
+Runtime: 118
+MIMIC: 100.0
+Runtime: 3699
+
+
+
+18
+RHC: 88.0
+Runtime: 61
+SA: 102.0
+Runtime: 102
+GA: 92.0
+Runtime: 132
+MIMIC: 103.0
+Runtime: 3446
+
+
+
+19
+RHC: 73.0
+Runtime: 75
+SA:  113.0
+Runtime: 126
+GA: 86.0
+Runtime: 122
+MIMIC: 109.0
+Runtime: 3322
+
+
+
+20
+RHC: 79.0
+Runtime: 62
+SA: 106.0
+Runtime: 85
+GA: 84.0
+Runtime: 113
+MIMIC: 111.0
+Runtime: 3438
+
+
+
+21
+RHC: 74.0
+Runtime: 62
+SA: 110.0
+Runtime: 103
+GA: 83.0
+Runtime: 120
+MIMIC: 102.0
+Runtime: 3714
+
+
+
+22
+RHC: 93.0
+Runtime: 54
+SA: 90.0
+Runtime: 79
+GA: 93.0
+Runtime: 109
+MIMIC: 98.0
+Runtime: 3615
+
+
+
+23
+RHC: 85.0
+Runtime: 77
+SA: 109.0
+Runtime: 90
+GA: 100.0
+Runtime: 93
+MIMIC: 94.0
+Runtime: 3676
+
+
+
+24
+RHC: 93.0
+Runtime: 80
+SA:  113.0
+Runtime: 103
+GA: 81.0
+Runtime: 119
+MIMIC: 104.0
+Runtime: 3564
+
+
+
+25
+RHC: 80.0
+Runtime: 66
+SA:  113.0
+Runtime: 99
+GA: 79.0
+Runtime: 135
+MIMIC: 100.0
+Runtime: 4026
+
+
+
+26
+RHC: 89.0
+Runtime: 75
+SA:  113.0
+Runtime: 98
+GA: 86.0
+Runtime: 120
+MIMIC: 108.0
+Runtime: 3943
+
+
+
+27
+RHC: 92.0
+Runtime: 55
+SA:  113.0
+Runtime: 102
+GA: 86.0
+Runtime: 124
+MIMIC: 97.0
+Runtime: 3614
+
+
+
+28
+RHC: 95.0
+Runtime: 67
+SA: 104.0
+Runtime: 97
+GA: 95.0
+Runtime: 110
+MIMIC: 95.0
+Runtime: 3747
+
+
+
+29
+RHC: 93.0
+Runtime: 73
+SA: 104.0
+Runtime: 104
+GA: 80.0
+Runtime: 131
+MIMIC: 102.0
+Runtime: 3611
+
+
+
+30
+RHC: 73.0
+Runtime: 62
+SA:  113.0
+Runtime: 115
+GA: 87.0
+Runtime: 102
+MIMIC: 96.0
+Runtime: 3025
+
+
+
+31
+RHC: 72.0
+Runtime: 60
+SA: 99.0
+Runtime: 83
+GA: 89.0
+Runtime: 101
+MIMIC: 104.0
+Runtime: 3469
+
+
+
+32
+RHC: 97.0
+Runtime: 54
+SA: 104.0
+Runtime: 80
+GA: 85.0
+Runtime: 103
+MIMIC: 90.0
+Runtime: 3432
+
+
+
+33
+RHC: 72.0
+Runtime: 55
+SA: 82.0
+Runtime: 87
+GA: 92.0
+Runtime: 109
+MIMIC: 101.0
+Runtime: 3154
+
+
+
+34
+RHC: 78.0
+Runtime: 59
+SA: 99.0
+Runtime: 84
+GA: 90.0
+Runtime: 109
+MIMIC: 88.0
+Runtime: 3421
+
+
+
+35
+RHC: 75.0
+Runtime: 58
+SA:  113.0
+Runtime: 91
+GA: 86.0
+Runtime: 102
+MIMIC: 106.0
+Runtime: 3547
+
+
+
+36
+RHC: 89.0
+Runtime: 64
+SA: 106.0
+Runtime: 96
+GA: 77.0
+Runtime: 103
+MIMIC: 109.0
+Runtime: 3492
+
+
+
+37
+RHC: 82.0
+Runtime: 56
+SA: 110.0
+Runtime: 84
+GA: 88.0
+Runtime: 108
+MIMIC: 108.0
+Runtime: 3382
+
+
+
+38
+RHC: 79.0
+Runtime: 53
+SA: 104.0
+Runtime: 82
+GA: 86.0
+Runtime: 99
+MIMIC: 109.0
+Runtime: 3045
+
+
+
+39
+RHC: 82.0
+Runtime: 69
+SA: 97.0
+Runtime: 104
+GA: 95.0
+Runtime: 117
+MIMIC: 102.0
+Runtime: 3375
+
+
+
+40
+RHC: 96.0
+Runtime: 79
+SA: 92.0
+Runtime: 104
+GA: 93.0
+Runtime: 128
+MIMIC: 104.0
+Runtime: 4010
+
+
+
+41
+RHC: 92.0
+Runtime: 58
+SA: 103.0
+Runtime: 93
+GA: 83.0
+Runtime: 104
+MIMIC: 99.0
+Runtime: 3776
+
+
+
+42
+RHC: 87.0
+Runtime: 72
+SA: 88.0
+Runtime: 100
+GA: 81.0
+Runtime: 152
+MIMIC: 104.0
+Runtime: 3766
+
+
+
+43
+RHC: 96.0
+Runtime: 62
+SA: 107.0
+Runtime: 93
+GA: 80.0
+Runtime: 121
+MIMIC: 98.0
+Runtime: 3896
+
+
+
+44
+RHC: 74.0
+Runtime: 62
+SA:  113.0
+Runtime: 88
+GA: 86.0
+Runtime: 107
+MIMIC: 103.0
+Runtime: 3780
+
+
+
+45
+RHC: 83.0
+Runtime: 59
+SA:  113.0
+Runtime: 91
+GA: 89.0
+Runtime: 102
+MIMIC: 94.0
+Runtime: 3644
+
+
+
+46
+RHC: 79.0
+Runtime: 56
+SA: 110.0
+Runtime: 87
+GA: 91.0
+Runtime: 97
+MIMIC: 103.0
+Runtime: 3333
+
+
+
+47
+RHC: 82.0
+Runtime: 55
+SA: 103.0
+Runtime: 87
+GA: 91.0
+Runtime: 124
+MIMIC: 88.0
+Runtime: 4080
+
+
+
+48
+RHC: 88.0
+Runtime: 61
+SA: 82.0
+Runtime: 94
+GA: 86.0
+Runtime: 108
+MIMIC: 89.0
+Runtime: 3438
+
+
+
+49
+RHC: 91.0
+Runtime: 57
+SA: 92.0
+Runtime: 110
+GA: 89.0
+Runtime: 115
+MIMIC: 100.0
+Runtime: 3665
+
+
+
+50
+RHC: 85.0
+Runtime: 58
+SA: 98.0
+Runtime: 91
+GA: 78.0
+Runtime: 110
+MIMIC: 97.0
+Runtime: 3718
+
+
+
+51
+RHC: 78.0
+Runtime: 69
+SA:  113.0
+Runtime: 127
+GA: 87.0
+Runtime: 144
+MIMIC: 100.0
+Runtime: 3618
+
+
+
+52
+RHC: 84.0
+Runtime: 82
+SA: 96.0
+Runtime: 109
+GA: 90.0
+Runtime: 138
+MIMIC: 110.0
+Runtime: 3568
+
+
+
+53
+RHC: 76.0
+Runtime: 62
+SA:  113.0
+Runtime: 86
+GA: 79.0
+Runtime: 113
+MIMIC: 107.0
+Runtime: 3726
+
+
+
+54
+RHC: 72.0
+Runtime: 56
+SA: 105.0
+Runtime: 115
+GA: 85.0
+Runtime: 167
+MIMIC: 99.0
+Runtime: 3765
+
+
+
+55
+RHC: 83.0
+Runtime: 87
+SA:  113.0
+Runtime: 87
+GA: 85.0
+Runtime: 119
+MIMIC: 109.0
+Runtime: 3429
+
+
+
+56
+RHC: 96.0
+Runtime: 74
+SA: 106.0
+Runtime: 115
+GA: 93.0
+Runtime: 144
+MIMIC:  113.0
+Runtime: 3736
+
+
+
+57
+RHC: 76.0
+Runtime: 79
+SA: 105.0
+Runtime: 114
+GA: 88.0
+Runtime: 170
+MIMIC: 93.0
+Runtime: 3884
+
+
+
+58
+RHC: 78.0
+Runtime: 66
+SA: 104.0
+Runtime: 93
+GA: 81.0
+Runtime: 96
+MIMIC: 111.0
+Runtime: 3344
+
+
+
+59
+RHC: 77.0
+Runtime: 57
+SA:  113.0
+Runtime: 91
+GA: 89.0
+Runtime: 111
+MIMIC: 89.0
+Runtime: 3439
+
+
+
+60
+RHC: 80.0
+Runtime: 70
+SA:  113.0
+Runtime: 89
+GA: 86.0
+Runtime: 116
+MIMIC: 109.0
+Runtime: 3858
+
+
+
+61
+RHC: 75.0
+Runtime: 92
+SA: 102.0
+Runtime: 106
+GA: 80.0
+Runtime: 133
+MIMIC: 92.0
+Runtime: 3595
+
+
+
+62
+RHC: 99.0
+Runtime: 65
+SA: 110.0
+Runtime: 91
+GA: 84.0
+Runtime: 114
+MIMIC: 101.0
+Runtime: 3306
+
+
+
+63
+RHC: 72.0
+Runtime: 67
+SA:  113.0
+Runtime: 102
+GA: 83.0
+Runtime: 117
+MIMIC: 95.0
+Runtime: 3765
+
+
+
+64
+RHC: 88.0
+Runtime: 74
+SA: 110.0
+Runtime: 117
+GA: 82.0
+Runtime: 125
+MIMIC: 106.0
+Runtime: 3744
+
+
+
+65
+RHC: 72.0
+Runtime: 58
+SA:  113.0
+Runtime: 96
+GA: 85.0
+Runtime: 110
+MIMIC: 108.0
+Runtime: 3730
+
+
+
+66
+RHC: 83.0
+Runtime: 60
+SA: 83.0
+Runtime: 85
+GA: 83.0
+Runtime: 110
+MIMIC: 109.0
+Runtime: 3447
+
+
+
+67
+RHC: 73.0
+Runtime: 59
+SA:  113.0
+Runtime: 81
+GA: 81.0
+Runtime: 126
+MIMIC: 93.0
+Runtime: 3894
+
+
+
+68
+RHC: 86.0
+Runtime: 54
+SA: 102.0
+Runtime: 85
+GA: 91.0
+Runtime: 102
+MIMIC: 101.0
+Runtime: 4103
+
+
+
+69
+RHC: 75.0
+Runtime: 77
+SA:  113.0
+Runtime: 101
+GA: 93.0
+Runtime: 199
+MIMIC: 102.0
+Runtime: 3920
+
+
+
+70
+RHC: 82.0
+Runtime: 59
+SA: 108.0
+Runtime: 92
+GA: 86.0
+Runtime: 115
+MIMIC: 105.0
+Runtime: 3787
+
+
+
+71
+RHC: 77.0
+Runtime: 74
+SA: 87.0
+Runtime: 96
+GA: 87.0
+Runtime: 121
+MIMIC: 99.0
+Runtime: 3678
+
+
+
+72
+RHC: 93.0
+Runtime: 75
+SA: 95.0
+Runtime: 94
+GA: 84.0
+Runtime: 110
+MIMIC: 96.0
+Runtime: 3631
+
+
+
+73
+RHC: 88.0
+Runtime: 71
+SA: 110.0
+Runtime: 130
+GA: 80.0
+Runtime: 134
+MIMIC: 100.0
+Runtime: 3691
+
+
+
+74
+RHC: 77.0
+Runtime: 77
+SA: 105.0
+Runtime: 107
+GA: 83.0
+Runtime: 125
+MIMIC: 95.0
+Runtime: 3779
+
+
+
+75
+RHC: 74.0
+Runtime: 68
+SA: 107.0
+Runtime: 93
+GA: 87.0
+Runtime: 112
+MIMIC: 108.0
+Runtime: 3738
+
+
+
+76
+RHC: 80.0
+Runtime: 57
+SA: 108.0
+Runtime: 85
+GA: 97.0
+Runtime: 102
+MIMIC: 109.0
+Runtime: 3313
+
+
+
+77
+RHC: 76.0
+Runtime: 88
+SA: 106.0
+Runtime: 129
+GA: 102.0
+Runtime: 136
+MIMIC: 103.0
+Runtime: 4437
+
+
+
+78
+RHC: 76.0
+Runtime: 92
+SA: 110.0
+Runtime: 95
+GA: 79.0
+Runtime: 123
+MIMIC: 96.0
+Runtime: 4030
+
+
+
+79
+RHC: 101.0
+Runtime: 56
+SA:  113.0
+Runtime: 96
+GA: 87.0
+Runtime: 132
+MIMIC: 93.0
+Runtime: 3838
+
+
+
+80
+RHC: 104.0
+Runtime: 71
+SA: 107.0
+Runtime: 104
+GA: 98.0
+Runtime: 143
+MIMIC: 94.0
+Runtime: 3594
+
+
+
+81
+RHC: 82.0
+Runtime: 58
+SA: 104.0
+Runtime: 93
+GA: 83.0
+Runtime: 128
+MIMIC: 91.0
+Runtime: 3830
+
+
+
+82
+RHC: 95.0
+Runtime: 71
+SA:  113.0
+Runtime: 111
+GA: 89.0
+Runtime: 168
+MIMIC: 108.0
+Runtime: 4208
+
+
+
+83
+RHC: 80.0
+Runtime: 70
+SA: 110.0
+Runtime: 93
+GA: 91.0
+Runtime: 104
+MIMIC: 90.0
+Runtime: 3709
+
+
+
+84
+RHC: 73.0
+Runtime: 57
+SA: 102.0
+Runtime: 88
+GA: 91.0
+Runtime: 109
+MIMIC: 90.0
+Runtime: 3730
+
+
+
+85
+RHC: 99.0
+Runtime: 69
+SA: 110.0
+Runtime: 135
+GA: 84.0
+Runtime: 145
+MIMIC: 109.0
+Runtime: 3480
+
+
+
+86
+RHC: 83.0
+Runtime: 71
+SA:  113.0
+Runtime: 90
+GA: 91.0
+Runtime: 111
+MIMIC: 105.0
+Runtime: 3663
+
+
+
+87
+RHC: 96.0
+Runtime: 74
+SA: 100.0
+Runtime: 87
+GA: 95.0
+Runtime: 104
+MIMIC: 103.0
+Runtime: 3845
+
+
+
+88
+RHC: 96.0
+Runtime: 54
+SA: 106.0
+Runtime: 90
+GA: 92.0
+Runtime: 105
+MIMIC: 111.0
+Runtime: 4095
+
+
+
+89
+RHC: 105.0
+Runtime: 58
+SA:  113.0
+Runtime: 95
+GA: 83.0
+Runtime: 113
+MIMIC: 104.0
+Runtime: 3757
+
+
+
+90
+RHC: 81.0
+Runtime: 60
+SA:  113.0
+Runtime: 111
+GA: 85.0
+Runtime: 135
+MIMIC: 104.0
+Runtime: 3846
+
+
+
+91
+RHC: 73.0
+Runtime: 84
+SA:  113.0
+Runtime: 108
+GA: 86.0
+Runtime: 136
+MIMIC: 94.0
+Runtime: 3514
+
+
+
+92
+RHC: 89.0
+Runtime: 61
+SA: 88.0
+Runtime: 90
+GA: 88.0
+Runtime: 126
+MIMIC: 103.0
+Runtime: 3833
+
+
+
+93
+RHC: 86.0
+Runtime: 63
+SA:  113.0
+Runtime: 92
+GA: 90.0
+Runtime: 107
+MIMIC: 99.0
+Runtime: 3601
+
+
+
+94
+RHC: 83.0
+Runtime: 60
+SA: 95.0
+Runtime: 95
+GA: 86.0
+Runtime: 146
+MIMIC: 103.0
+Runtime: 3794
+
+
+
+95
+RHC: 90.0
+Runtime: 81
+SA:  113.0
+Runtime: 105
+GA: 86.0
+Runtime: 115
+MIMIC: 102.0
+Runtime: 3715
+
+
+
+96
+RHC: 80.0
+Runtime: 61
+SA: 96.0
+Runtime: 81
+GA: 87.0
+Runtime: 118
+MIMIC: 97.0
+Runtime: 3432
+
+
+
+97
+RHC: 82.0
+Runtime: 60
+SA: 88.0
+Runtime: 107
+GA: 90.0
+Runtime: 137
+MIMIC: 100.0
+Runtime: 3537
+
+
+
+98
+RHC: 77.0
+Runtime: 60
+SA: 105.0
+Runtime: 121
+GA: 88.0
+Runtime: 136
+MIMIC: 103.0
+Runtime: 3622
+
+
+
+99
+RHC: 79.0
+Runtime: 59
+SA: 109.0
+Runtime: 92
+GA: 83.0
+Runtime: 129
+MIMIC: 100.0
+Runtime: 3819
+
+
+
+Average time for all 100 iterations.
+
+RHC: 67.71
+SA: 99.21
+GA: 123.47
+MIMIC: 3697.82
+
+
+Best fitness over 100 iterations:
+RHC: 0
+SA: 66
+GA: 0
+MIMIC: 34
+
+Max value:
+SA:  113.0
+Runtime: 99
+Iteration: 25
+
+Min value:
+RHC: 72.0
+Runtime: 60
+Iteration: 31
+
+Average fitness values: 
+RHC: 83.42
+SA: 104.27
+GA: 87.17
+MIMIC: 101.16
